@@ -1,4 +1,4 @@
-# oatpp_baseExample
+# OAT++ - Usage Example
 Minimal base example for OAT++ WebAPI library.
 
 ## Note
